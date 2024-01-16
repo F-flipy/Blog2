@@ -1,6 +1,6 @@
 ## Blog 2
 
-#### COMANDOS NO TERMINAL
+#### PASSOS E COMANDOS NO TERMINAL
 #### Rodar app em python no gitpod:
 #### python app.py
 
